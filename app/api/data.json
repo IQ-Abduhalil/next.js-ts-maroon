@@ -1,0 +1,194 @@
+[
+  {
+    "id": "23433",
+    "name": "High",
+    "use": "крем для лица",
+    "price": 1000,
+    "quantity": "50ml",
+    "img": "/images/product-1.png"
+  },
+  {
+    "id": "23443",
+    "name": "Rest",
+    "use": "минеральная пудра",
+    "price": 690,
+    "quantity": "50ml",
+    "img": "/images/product-2.png"
+  },
+  {
+    "id": "26533",
+    "name": "Rose",
+    "use": "крем для лица",
+    "price": 890,
+    "quantity": "50ml",
+    "img": "/images/product-3.png"
+  },
+  {
+    "id": "27733",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-4.png"
+  },
+  {
+    "id": "27343",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-5.png"
+  },
+  {
+    "id": "27722",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-6.png"
+  },
+  {
+    "id": "54533",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-7.png"
+  },
+  {
+    "id": "66663",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-8.png"
+  },
+  {
+    "id": "28783",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-9.png"
+  },
+  {
+    "id": "43437",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-10.png"
+  },
+  {
+    "id": "90908",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-11.png"
+  },
+  {
+    "id": "28433",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-12.png"
+  },
+  {
+    "id": "66653",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-1.png"
+  },
+  {
+    "id": "77676",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-4.png"
+  },
+  {
+    "id": "27756",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-7.png"
+  },
+  {
+    "id": "23322",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-9.png"
+  },
+  {
+    "id": "20322",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-6.png"
+  },
+  {
+    "id": "73322",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-3.png"
+  },
+  {
+    "id": "75522",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-2.png"
+  },
+  {
+    "id": "98322",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-9.png"
+  },
+  {
+    "id": "85822",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-11.png"
+  },
+  {
+    "id": "88822",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-1.png"
+  },
+  {
+    "id": "27522",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-7.png"
+  },
+  {
+    "id": "13322",
+    "name": "Milk",
+    "use": "масло для тела",
+    "price": 790,
+    "quantity": "150ml",
+    "img": "/images/product-5.png"
+  }
+]
